@@ -2,13 +2,13 @@
   {
     "name": "Example Badge",
     "img": "https://media.discordapp.net/attachments/971778027216318504/971779343955165214/IMG_1729.png",
-    "id": 000000000000000000,
+    "id": "000000000000000000",
     "isRound": true
   },
     {
     "name": "FRCat",
     "img": "https://cdn.discordapp.com/emojis/973588528481067038.webp?size=1024&quality=lossless",
-    "id": 811770910624579584,
+    "id": "811770910624579584",
     "isRound": false
   }
 ]
