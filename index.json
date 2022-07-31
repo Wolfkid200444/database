@@ -19,8 +19,14 @@
   },
     {
     "name": "Forg",
-    "img": "https://cdn.discordapp.com/role-icons/1001323983171489792/e8b3017fed0c6071ae6ad8289258a85c.png",
+    "img": "https://cdn.discordapp.com/role-icons/1001323983171489792/e8b3017fed0c6071ae6ad8289258a85c.png?size=1024&quality=lossless",
     "id": "1000992611840049192",
+    "isRound": false
+  },
+    {
+    "name": "French Cat's Property <3",
+    "img": "https://cdn.discordapp.com/attachments/971778027216318504/1003115330064875641/hom.png?size=1024&quality=lossless",
+    "id": "803149869123502081",
     "isRound": false
   }
 ]
