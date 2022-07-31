@@ -1,5 +1,7 @@
 # database
 Where BadgeDB gets its point in life
+
+BadgeDB is like UsrBG but for bages
 # Rules
 Your image **must** be under the following domains ```i.imgur.com, cdn.discordapp.com, media.discordapp.net```
 
